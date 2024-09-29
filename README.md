@@ -6,4 +6,4 @@
 3. You can now find `Separator` in the at the top of the ToolBox.
 
 ## ScreenShots
-![Toolbox Separator ScreenShot](/ScreenShots/tux.png)
+![Toolbox Separator ScreenShot](/ScreenShots/Sep01.png)
