@@ -7,3 +7,5 @@
 
 ## ScreenShots
 ![Toolbox Separator ScreenShot](/ScreenShots/Sep01.png)
+![honSeparator Element ScreenShot](/ScreenShots/Sep02.png)
+![honSeparator Design ScreenShot](/ScreenShots/Sep03.png)
